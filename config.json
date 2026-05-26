@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterptringify",
+        "uuid": 6010550,
+        "checksum": "kmlnt5"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
